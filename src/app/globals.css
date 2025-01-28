@@ -4,8 +4,8 @@
 
 h1{
 
-  color:aliceblue;
-  background-color: rgb(13, 19, 70);
+  color:#f0f8ff;
+  background-color: #0d1346;
   text-align: center;
   margin: 150px;
   padding: 150px;
@@ -16,5 +16,5 @@ h1{
 
 body{
 
-  background-color: rgb(198, 210, 157);
+  background-color: #c6d29d;
 }
